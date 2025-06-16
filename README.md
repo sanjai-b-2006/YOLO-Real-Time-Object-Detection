@@ -39,7 +39,7 @@ This repository contains a simple yet powerful **object detection web app** usin
  └── README.md # Project documentation
 
  
-## 📥 Download YOLOv3-Tiny
+## 📥 Download YOLOv3-Tiny.Weights
 
 https://huggingface.co/spaces/VipulS/Ytest/resolve/main/yolov3-tiny.weights
 
