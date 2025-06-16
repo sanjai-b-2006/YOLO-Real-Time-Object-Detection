@@ -48,6 +48,7 @@ https://huggingface.co/spaces/VipulS/Ytest/resolve/main/yolov3-tiny.weights
 ### Bash
 
   ->streamlit run app.py
+  
   ->Then open the URL provided (usually http://localhost:8501) in your browser.
 
 
