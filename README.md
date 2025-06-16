@@ -35,6 +35,9 @@ This repository contains a simple yet powerful **object detection web app** usin
  ├── real_time_yolo_detector.py # Streamlit application file
  ├── sample/ # Folder for sample images/videos/GIFs
  └── README.md # Project documentation
+## 📥 Download YOLOv3-Tiny
+
+https://huggingface.co/spaces/VipulS/Ytest/resolve/main/yolov3-tiny.weights
 
 ## ▶️ Run the App
  bash
@@ -50,5 +53,5 @@ This repository contains a simple yet powerful **object detection web app** usin
    - Displays the processed output in real-time
 
 ## 📷 Sample Output
-# Upload an image/video/GIF and get object detections like this:
+Upload an image/video/GIF and get object detections like this:
 ![alt text](output.png)
