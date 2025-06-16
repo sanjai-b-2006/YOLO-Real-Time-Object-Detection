@@ -45,7 +45,7 @@ https://huggingface.co/spaces/VipulS/Ytest/resolve/main/yolov3-tiny.weights
 
 
 ## ▶️ Run the App
- bash
+### bash
  
  streamlit run app.py 
  
